@@ -1,0 +1,29 @@
+[
+  {
+    "id": "LEAD001",
+    "name": "Anita Sharma",
+    "company": "ABC Technologies",
+    "email": "anita@example.com",
+    "status": "New",
+    "priority": "High",
+    "source": "Website"
+  },
+  {
+    "id": "LEAD002",
+    "name": "Rahul Kumar",
+    "company": "XYZ Solutions",
+    "email": "rahul@example.com",
+    "status": "Working",
+    "priority": "Medium",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "LEAD003",
+    "name": "Priya Reddy",
+    "company": "PQR Industries",
+    "email": "priya@example.com",
+    "status": "Qualified",
+    "priority": "High",
+    "source": "Referral"
+  }
+]
